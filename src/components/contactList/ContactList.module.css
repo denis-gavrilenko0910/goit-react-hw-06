@@ -1,0 +1,7 @@
+.contactList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+    max-width: 800px; /* Ограничим максимальную ширину */
+}
